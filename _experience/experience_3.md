@@ -1,6 +1,6 @@
 ---
 layout: post
-start_end: "Jul, 2022 - Jun, 2024"
+start_end: "Jul, 2022 - May, 2024"
 inline: true
 ---
 
