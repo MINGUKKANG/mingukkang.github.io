@@ -3,6 +3,12 @@ layout: post
 inline: true
 ---
 
+**Graduate School Presidential Science Scholarship (2024)**
+- Received a scholarship totaling $26,000, which amounted to $1,450 per month over 18 months.  
+
+**BK21 outstanding paper awards (2024)**
+- 2st prize ($375) \- *Scaling up GANs for Text-to-Image Synthesis* (CVPR2023)
+
 **BK21 outstanding paper awards (2022)**
 - 1st prize ($750) \- *Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training* (NeurIPS2021)
 
