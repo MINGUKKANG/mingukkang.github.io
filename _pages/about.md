@@ -18,8 +18,8 @@ honors: true # includes a list of experience items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 4th year Ph.D. student in Graduate School of AI at [POSTECH](https://postech.ac.kr/eng/), where I am a member of the [Computer Vision Lab](http://cvlab.postech.ac.kr/lab/) under the supervision of Prof. [Suha Kwak](https://suhakwak.github.io). I received B.S. in Engineering at Pusan National University. 
+I am a 5th year Ph.D. student in Graduate School of AI at [POSTECH](https://postech.ac.kr/eng/), where I am a member of the [Computer Vision Lab](http://cvlab.postech.ac.kr/lab/) under the supervision of Prof. [Suha Kwak](https://suhakwak.github.io). From 2022 to 2024, I interned at Adobe Research, collaborating with wonderful colleagues: [Taesung Park](https://taesung.me/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Richard Zhang](https://richzhang.github.io/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Sylvain Paris](https://research.adobe.com/person/sylvain-paris/), and [Connelly Barnes](https://www.connellybarnes.com/work/), where my research contributed to the development of Firefly. Previously, I received my B.S. in Engineering from Pusan National University.
 
-I focus on computer vision, particularly on the subject of generative modeling and how it can be applied. I am fascinated by the diverse range of vision-related tasks that Generative Adversarial Networks (GANs) can potentially assist with. If you would like to know more about the research projects that I am working on, do not hesitate to reach out to me.
+My research focuses on computer vision, particularly visual generative modeling and its applications. I am fascinated by the diverse range of vision-related tasks that Generative Adversarial Networks (GANs) can assist with. I am also interested in training large-scale diffusion models and exploring their applications. If you would like to know more about my research projects, please feel free to reach out to me.
 
 Email: mingukkang1994@gmail.com, mgkang@postech.ac.kr
