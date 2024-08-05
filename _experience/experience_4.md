@@ -5,5 +5,5 @@ inline: true
 ---
 
 [Pika](https://pika.art/home), Palo Alto, United States of America
-* Tech Intern
+* Research Scientist Intern
 - Working with: [Chenlin Meng](https://cs.stanford.edu/~chenlin/)
