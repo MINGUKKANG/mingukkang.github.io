@@ -3,7 +3,7 @@ layout: post
 inline: true
 ---
 
-**Outstanding Reviewer, European Computer Vision Association (2024)**
+**Outstanding Reviewer**, European Computer Vision Association (2024)
 
 **Graduate School Presidential Science Scholarship (2024)**
 - Received a scholarship totaling $26,000, which amounted to $1,450 per month over 18 months.  
